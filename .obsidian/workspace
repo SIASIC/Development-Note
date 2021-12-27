@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "ae7ed3e74b9e819f",
+    "type": "split",
+    "children": [
+      {
+        "id": "09f39d272c01a630",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Atasan dan pejabat yang bersangkutan.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2412321045cc99c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e203de4529582d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75a2b5a5907b39be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0488c2b9fed61d74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a6f22111e957f34",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a814993cc0c652b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ac0aa6284dd2a94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Atasan dan pejabat yang bersangkutan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "09f39d272c01a630",
+  "lastOpenFiles": [
+    "Atasan dan pejabat yang bersangkutan.md",
+    "Persyaratan Cuti.md",
+    "Form Cuti.md"
+  ]
+}
