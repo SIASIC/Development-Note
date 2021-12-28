@@ -1,9 +1,12 @@
 ## General
 1. Pegawai mengisi [[Form Cuti]]
 2. Menyerahkan persyaratan cuti sesuai dengan [[Persyaratan Cuti]]
-3. Pertimbangan [[Atasan dan pejabat yang bersangkutan]]
+3. Pertimbangan Atasan yang bersangkutan
+4. Pertimbangan Pejabat yang bersangkutan
 
-Form cuti bisa disetujui oleh Atasan atau Pejabat yang bersangkutan. Atasan dan Pejabat bisa memberikan status pada form cuti berupa
+[[Atasan dan pejabat yang bersangkutan]] 
+
+Form cuti bisa disetujui oleh Atasan dan Pejabat yang bersangkutan. Atasan dan Pejabat bisa memberikan status pada form cuti berupa
 1. Disetujui
 2. Perubahan
 3. Ditangguhkan
