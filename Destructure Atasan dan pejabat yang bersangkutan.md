@@ -3,7 +3,7 @@
 ## Atasan
 1. Sekretaris daerah kabupaten bondowoso
 2. Kepala badan daerah kabupaten bondowoso
-3. Direktur RSU / Inspektur / Kepala Badan / Dinas / Kantor / Bagian pada sekretariat daerah / Sekretaris DPRD / Sekretaris KPU.
+3. Direktur RSU / Inspektur / Kepala Badan / Dinas / Bagian pada sekretariat daerah / Sekretaris DPRD / Sekretaris KPU.
 4. Camat
 5. Lurah
 

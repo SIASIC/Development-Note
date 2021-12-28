@@ -4,7 +4,6 @@
 3. Jabatan
 3. Unit Kerja
 4. Masa kerja (tanggal sekarang - tanggal jadi PNS)
-5. Daerah
 
 ## Jabatan
 1. Nama jabatan 
@@ -28,15 +27,19 @@
 ### Jabatan Atasan
 1. Sekretaris daerah kabupaten bondowoso
 2. Kepala badan daerah kabupaten bondowoso
-3. Direktur RSU / Inspektur / Kepala Badan / Dinas / Kantor / Bagian pada sekretariat daerah / Sekretaris DPRD / Sekretaris KPU.
-4. Camat
-5. Lurah
+3. Direktur RSU
+4. Inspektur
+5. Kepala Badan
+6. Kepala Dinas
+8. Kepala Bagian pada sekretariat daerah
+9. Sekretaris DPRD
+10. Sekretaris KPU
+11. Camat
+12. Lurah
 
 ## Unit Kerja
 1. Nama unit kerja
-
-## Daerah
-1. Nama daerah
+2. Daerah
 
 ***
 # Form Cuti
@@ -48,7 +51,7 @@
 6. sampai dengan
 7. Catatan cuti
 8. Alamat menjalankan cuti
-9. Nomor telepon yang bisa dihubungi
+9. Nomor telepon yang bisa dihubung
 
 > Lanjut bagian pertimbangan atasan dan keputusan pejabat
 
