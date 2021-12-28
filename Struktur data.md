@@ -53,6 +53,7 @@
 8. Alamat menjalankan cuti
 9. Nomor telepon yang bisa dihubung
 10. Atasan yang bersangkutan
+11. File persyaratan
 11. Pertimbangan atasan
 12. Pejabat yang bersangkutan
 13. Pertimbangan pejabat
@@ -70,6 +71,10 @@
 1. Jenis cuti
 2. Jumlah 
 3. Tanggal
+
+## File persyaratan
+1. Nama file
+2. File
 ***
 
 

@@ -17,3 +17,20 @@
 4. Cuti Melahirkan -> 3 bulan
 5. Cuti Karena alasan penting -> 1 bulan
 6. Cuti diluar tanggungan negara -> 3 tahun
+
+Note untuk cuti tahunan:
+Jatah cuti tahunan adalah 12 hari. Jika selama setahun jatah tidak diambil maka jatah cuti tahun berikutnya menjadi 18 hari. Jika selama dua tahun jatah tidak diambil maka jatah cuti tahunan berikutnya menjadi 24 hari. Pertambahan jatah cuti karena tidak diambil berhenti di 24 hari atau pada tahun ke-3.
+
+Jika jatah cuti tahunan diambil meskipun hanya satu hari, maka jatah cuti tahun berikutnya adalah 12 hari + sisa jatah cuti tahun ini. Pertambahan jatah cuti berhenti di tahun ke-3 
+
+## Kriteria persyaratan cuti
+1. Surat dokter
+	- Asli
+	- Memiliki kop surat (kalau ada)
+	- Nama teridentifikasi sebagai dokter praktik
+	- Tanda tangan teridentifikasi asli milik dokter yang beresangkutan
+2. Surat bidan
+	- Asli
+	- Memiliki kop surat (kalau ada)
+	- Nama teridentifikasi sebagai bidan 
+	- Tanda tangan teridentifikasi asli milik bidan yang bersangkutan
