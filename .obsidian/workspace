@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Alur Permohonan Cuti.md",
+            "file": "Struktur data.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alur Permohonan Cuti.md",
+                "file": "Struktur data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,12 @@
   },
   "active": "0f17ae52d16016f3",
   "lastOpenFiles": [
-    "Alur Permohonan Cuti.md",
     "Struktur data.md",
+    "Persyaratan Cuti.md",
+    "Form Cuti.md",
     "Destructure Atasan dan pejabat yang bersangkutan.md",
     "Atasan dan pejabat yang bersangkutan.md",
-    "Persyaratan Cuti.md",
-    "Form Cuti.md"
+    "Alur Permohonan Cuti.md",
+    "Jatah Cuti.md"
   ]
 }

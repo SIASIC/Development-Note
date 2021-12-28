@@ -9,3 +9,11 @@
 | 7  | Cuti Karena alasan penting    | Form cuti, dari yang bersangkutan                                     |
 | 8  | Cuti diluar tanggungan negara | Form cuti, surat keterangan CLTN dari Pd                              |
 | 9  | Cuti bersama                  | Surat edaran dari 3 menteri                                           |
+
+## Jatah cuti
+1. Cuti tahunan -> 12 hari
+2. Cuti besar -> 40 hari
+3. Cuti Sakit -> 1 tahun + 6 bulan
+4. Cuti Melahirkan -> 3 bulan
+5. Cuti Karena alasan penting -> 1 bulan
+6. Cuti diluar tanggungan negara -> 3 tahun

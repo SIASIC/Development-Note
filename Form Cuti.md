@@ -16,9 +16,12 @@
 
 ### Jenis Cuti
 Memilih jenis cuti
-1. Cuti Sakit
-2. Cuti Melahirkan
-3. Cuti Karena alasan penting
+1. Cuti tahunan
+2. Cuti besar
+3. Cuti Sakit
+4. Cuti Melahirkan
+5. Cuti Karena alasan penting
+6. Cuti diluar tanggungan negara
 
 ### Alasan cuti
 Alasan kenapa cuti berbentuk text
@@ -28,7 +31,7 @@ Alasan kenapa cuti berbentuk text
 2. Mulai tanggal. **
 3. sampai dengan. **
 
-> ** Akan diisi manual, tapi akan diisi otomatis oleh mesin.
+> ** Bisa diisi manual, tapi akan diisi otomatis oleh mesin.
 > Error akan muncul jika selisih mulai tanggal dan sampai dengan kurang dari selama
 > Perbaikan bisa dilakukan otomatis. Bisa memilih untuk memperbaiki selama atau memperbaiki mulai tanggal atau sampai tanggal
 

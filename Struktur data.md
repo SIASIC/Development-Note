@@ -52,12 +52,17 @@
 7. Catatan cuti
 8. Alamat menjalankan cuti
 9. Nomor telepon yang bisa dihubung
+10. Atasan yang bersangkutan
+11. Pertimbangan atasan
+12. Pejabat yang bersangkutan
+13. Pertimbangan pejabat
 
-> Lanjut bagian pertimbangan atasan dan keputusan pejabat
+> Atasan dan pejabat yang besangkutan diisi otomatis oleh mesin sesui dengan ketentuan [[Destructure Atasan dan pejabat yang bersangkutan]]
 
 ## Jenis Cuti
 1. Jenis cuti
 2. Persyaratan
+3. Jatah [[Persyaratan Cuti#Jatah cuti]]
 
 [[Persyaratan Cuti]]
 
