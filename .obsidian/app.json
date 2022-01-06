@@ -1,5 +1,12 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "trashOption": "local",
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "id"
+  ]
 }

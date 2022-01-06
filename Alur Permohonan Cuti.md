@@ -55,3 +55,8 @@ ex:
 	- Persyaratan cuti sakit dan cuti melahirkan akan diproses untuk mengenali apakah sesuai dengan kriteria [[Persyaratan Cuti#Kriteria persyaratan cuti]]
 9. Atasan mempertimbangkan form cuti (lihat [[Alur Permohonan Cuti#Status form cuti]])
 10. Pejabat mempertimbangkan form cuti (lihat [[Alur Permohonan Cuti#Status form cuti]])
+
+## Flowchart
+
+Flowchart dilengkapi dengan proses identifikasi surat
+
