@@ -7,8 +7,12 @@
         "id": "c49a4841dc7accc1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Fitur.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6a6f22111e957f34",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fitur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +97,7 @@
   },
   "active": "c49a4841dc7accc1",
   "lastOpenFiles": [
+    "Fitur.md",
     "Alur Permohonan Cuti.md",
     "Persyaratan Cuti.md",
     "Struktur data.md",
