@@ -4,12 +4,16 @@
 3. Jabatan
 3. Unit Kerja
 4. Masa kerja (tanggal sekarang - tanggal jadi PNS)
+5. Password
+6. Level
+	- Admin
+	- Atasan
+	- Pejabat
 
-## Jabatan
+# Jabatan
 1. Nama jabatan 
 	- PNS [[Struktur data#Jabatan PNS]]
 	- Atasan [[Struktur data#Jabatan Atasan]]
-	
 2. Jenis jabatan
 	- Atasan
 	- PNS
@@ -37,7 +41,7 @@
 11. Camat
 12. Lurah
 
-## Unit Kerja
+# Unit Kerja
 1. Nama unit kerja
 2. Daerah
 
@@ -51,12 +55,13 @@
 6. sampai dengan
 7. Catatan cuti
 8. Alamat menjalankan cuti
-9. Nomor telepon yang bisa dihubung
+9. Nomor telepon yang bisa dihubungi
 10. Atasan yang bersangkutan
 11. File persyaratan
-11. Pertimbangan atasan
-12. Pejabat yang bersangkutan
-13. Pertimbangan pejabat
+12. Atasan yang bersangkutan
+13. Pertimbangan atasan
+14. Pejabat yang bersangkutan
+15. Pertimbangan pejabat
 
 > Atasan dan pejabat yang besangkutan diisi otomatis oleh mesin sesui dengan ketentuan [[Destructure Atasan dan pejabat yang bersangkutan]]
 

@@ -1,8 +1,7 @@
 ## General
-1. Pegawai mengisi [[Form Cuti]]
-2. Menyerahkan persyaratan cuti sesuai dengan [[Persyaratan Cuti]]
-3. Pertimbangan Atasan yang bersangkutan
-4. Pertimbangan Pejabat yang bersangkutan
+1. PNS bertemu dengan atasan unit kerja untuk mengajukan cuti dan menyerahkan [[Persyaratan Cuti]]
+2. Atasan mengisikan [[Form Cuti]] dan memasukkan [[Persyaratan Cuti]] yang diberikan oleh pegawai
+3. Form cuti yang telah disetujui diteruskan kepada pejabat yang bersangkutan
 
 [[Atasan dan pejabat yang bersangkutan]] 
 
@@ -26,9 +25,9 @@ Status dari pejabat menetapkan bahwa form cuti
 - Jika Tidak disetujui maka form cuti akan diberikan kembali ke atasan yang bersangkutan
 
 ## Refine
-1. Pemohon mengisi data diri (otomatis diisi)
-2. Pemohon memilih jenis cuti yang diambil
-3. Pemohon mengisi alasan cuti
+1. Atasan mengisi data diri (otomatis diisi)
+2. Atasan memilih jenis cuti yang diambil
+3. Atasan mengisi alasan cuti
 4. Mengisi
 	- Lama cuti hari/bulan/tahun
 	- Mulai tanggal (akan diisi otomatis hari ini, tapi bisa diubah)
@@ -49,14 +48,8 @@ ex:
 | Cuti Karena alasan penting     |         |      |
 | Cuti di luar tanggungan negara |         |      |
 
-6. Pemohon mengisi alamat selama menjalankan cuti
-7. Pemohon mengisi no telp yang bisa dihubungi selama menjalan cuti
-8. Menyerahkan persyaratan cuti sesuai dengan [[Persyaratan Cuti]]
-	- Persyaratan cuti sakit dan cuti melahirkan akan diproses untuk mengenali apakah sesuai dengan kriteria [[Persyaratan Cuti#Kriteria persyaratan cuti]]
-9. Atasan mempertimbangkan form cuti (lihat [[Alur Permohonan Cuti#Status form cuti]])
-10. Pejabat mempertimbangkan form cuti (lihat [[Alur Permohonan Cuti#Status form cuti]])
-
-## Flowchart
-
-Flowchart dilengkapi dengan proses identifikasi surat
-
+6. Atasan mengisi alamat selama menjalankan cuti
+7. Atasan mengisi no telp yang bisa dihubungi selama menjalan cuti
+8. Memasukkan persyaratan cuti sesuai dengan [[Persyaratan Cuti]]
+9. Atasan mempertimbangkan form cuti [[Alur Permohonan Cuti#Status form cuti]]
+10. Pejabat mempertimbangkan form cuti [[Alur Permohonan Cuti#Status form cuti]]

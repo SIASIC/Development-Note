@@ -6,31 +6,20 @@ Test pull on mobile
 
 ## Masalah / Goal
 ### Context
-Instansi pemerintah mempunyai sistem cuti, dimana PNS bisa meminta cuti dengan izin tertentu seperti [[Persyaratan Cuti]]. Sistem dilakukan denngan 
-1. PNS membuat surat cuti, 
-2. petugas yang bersangkutan jumlah [[Persyaratan Cuti#Jatah cuti]] yang tersedia dari si PNS, 
-3. PNS memberikan data untuk [[Persyaratan Cuti#Kriteria persyaratan cuti]]
+Instansi pemerintah mempunyai sistem cuti, dimana PNS bisa meminta cuti dengan izin tertentu seperti [[Persyaratan Cuti]]. Sistem dilakukan dengan 
+1. PNS menghadap atasan untuk meminta persetujuan cuti 
+2. PNS memberikan data untuk [[Persyaratan Cuti#Kriteria persyaratan cuti]] dan [[Persyaratan Cuti#Jatah cuti]] yang masih ia miliki
+3. Atasan/Petugas yang berwenang di unit kerja mengisi [[Form Cuti]] sesuai dengan permintaan PNS dan mengvaluasi [[Persyaratan Cuti#Kriteria persyaratan cuti]] yang diberikan oleh PNS
 4. Atasan dari instansi tempat PNS bekerja memberikan persetujuan
-5. dan Pejabat yang bersangkutan memberikan persetujuan
+5. Pejabat memberikan form cuti yang telah disetujui dan berstempel
+6. Pejabat yang bersangkutan memberikan persetujuan
 
-Proses ini dilakukan dengan cara semi manual, dimana ada aplikasi yang bisa menangani hal tersebut, tetapi sistem masih harus dilakukan dengan menuliskan kebutuhan form secara manual dan mencari data yang ada pada aplikasi. Ini merupakan salah satu masalah yang akan ditangani dengan membuat aplikasi khusus sehingga
-1. Entry data form bisa dilakukan secara otomatis
-2. Kemudahan penandatanganan form cuti untuk persetujuan
-3. Mempercepat alur proses
-
-Kenapa mempercepat alur proses? Dalam proses persetujuan form cuti, PNS harus memberikan [[Persyaratan Cuti]] berupa file, dokumen, atau surat. Dokumen tersebut harus memelalui proses verifikasi secara manual dengan melihat secara satu-persatu. Membuat proses persetujuan form cuti menjadi sangat lama dan melelahkan petugas/atasan/pejabat yang bersangkutan. Proses ini nantinya akan dilakukan secara otomatis oleh mesin/aplikasi dengan bantuan artificial intelligence dan pengolahan data citra pada surat yang diberikan, tentunya hasil verifikasi akan bisa dikoreksi oleh petugas dan tidak akan menjadi verifikasi final.
+Semau proses diatas dilakukan secara manual.
 
 ### Poin masalah
-1. Proses lama
-2. Proses dilakukan secara semi manual
-3. Pemeriksaan dokumen dilakukan secara manual
-
-***
-## Ekstrak Masalah
-1. Entry data form tidak dilakukan secara otomatis
-2. Penghitungan jatah cuti dilakukan dengan cara semi manual
-3. Verifikasi dokumen dilakukan secara manual
-4. Penandatangan form oleh pejabat dan atasan yang lama
+1. Proses pengisian form yang masih dilakukan secara manual
+2. Verifikasi jatah cuti yang hanya bisa dikonfirmasi dari PNS yang bersangkutan
+3. Verifikasi berkas yang dilakukan secara manual
 
 ***
 ## Solusi
@@ -68,10 +57,6 @@ Dengan kriteria verifikasi pada [[Persyaratan Cuti#Kriteria persyaratan cuti]]
 
 [[Cara & referensi jurnal verifikasi dokumen]]
 
-#### 4. Tanda tangan otomatis
-Penandatangan akan dilakukan secara otomatis dengan beberapa pilihan cara
-- Sistem menyimpan tandatangan sehingga bisa digunakan setiap kali form cuti disetujui
-- Sistem meminta tanda tangan melalui file atau tanda tangan secara langsung melalui aplikasi
 
 ***
 ## Potensi masalah
