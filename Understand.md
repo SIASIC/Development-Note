@@ -2,8 +2,6 @@
 
 [[Fitur]]
 
-Test pull on mobile
-
 ## Masalah / Goal
 ### Context
 Instansi pemerintah mempunyai sistem cuti, dimana PNS bisa meminta cuti dengan izin tertentu seperti [[Persyaratan Cuti]]. Sistem dilakukan dengan 
@@ -66,7 +64,7 @@ Dengan kriteria verifikasi pada [[Persyaratan Cuti#Kriteria persyaratan cuti]]
 4. Penyimpanan data PNS pada sistem yang tidak aman sangat tidak dianjurkan dan lebih baik mengambil data dari API, jika ada
 
 
-# Alur pengajuan di aplikasi
+## Alur pengajuan di aplikasi
 1. PNS mengajukan cuti kepada atasan atau bagian kepegawaian pada unit kerja tempat ia bekerja
 2. PNS menyerahkan [[Persyaratan Cuti]]
 3. Bagian kepegawaian atau atasan mengisi form cuti miliki PNS

@@ -26,11 +26,16 @@ Jika jatah cuti tahunan diambil meskipun hanya satu hari, maka jatah cuti tahun 
 ## Kriteria persyaratan cuti
 1. Surat dokter
 	- Asli
-	- Memiliki kop surat (kalau ada)
 	- Nama teridentifikasi sebagai dokter praktik
 	- Tanda tangan teridentifikasi asli milik dokter yang beresangkutan
 2. Surat bidan
 	- Asli
-	- Memiliki kop surat (kalau ada)
 	- Nama teridentifikasi sebagai bidan 
 	- Tanda tangan teridentifikasi asli milik bidan yang bersangkutan
+
+## Peraturan permintaan cuti
+1. Tidak boleh mengambil cuti lebih dari jatah cuti
+2. Surat sakit hanya bisa diberikan oleh dokter
+3. Surat melahirkan hana bisa diberikan oleh bidan (bukan dokter)
+
+Jika melanggar ketentuan diatas, maka pengajuan form cuti akan otomatis ditolak oleh mesin

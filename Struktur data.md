@@ -56,10 +56,10 @@
 7. Catatan cuti
 8. Alamat menjalankan cuti
 9. Nomor telepon yang bisa dihubungi
-10. Atasan yang bersangkutan
-11. File persyaratan
-12. Atasan yang bersangkutan
-13. Pertimbangan atasan
+10. File persyaratan
+11. Atasan yang bersangkutan
+12. Pertimbangan atasan
+13. Scan berstempel
 14. Pejabat yang bersangkutan
 15. Pertimbangan pejabat
 
@@ -69,6 +69,7 @@
 1. Jenis cuti
 2. Persyaratan
 3. Jatah [[Persyaratan Cuti#Jatah cuti]]
+4. Pejabat yang bersangkutan
 
 [[Persyaratan Cuti]]
 
@@ -83,3 +84,14 @@
 ***
 
 
+
+
+## Dokter
+1. Nama dokter
+2. NIP
+3. fitur tanda tangan
+
+## Bidan
+1. Nama bidan
+2. NIP
+3. fitur tanda tangan

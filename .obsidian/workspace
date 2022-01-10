@@ -7,8 +7,12 @@
         "id": "f8154f77f8978ffc",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Persyaratan Cuti.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Persyaratan Cuti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,19 +93,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "f8154f77f8978ffc",
   "lastOpenFiles": [
+    "Persyaratan Cuti.md",
+    "Struktur data.md",
+    "Cara & referensi jurnal verifikasi dokumen.md",
+    "Form Cuti.md",
+    "Fitur.md",
     "Understand.md",
     "Alur Permohonan Cuti.md",
-    "Fitur.md",
     "Destructure Atasan dan pejabat yang bersangkutan.md",
-    "Cara & referensi jurnal verifikasi dokumen.md",
     "Atasan dan pejabat yang bersangkutan.md",
-    "Form Cuti.md",
-    "daily-notes/2022-01-10.md",
-    "Struktur data.md",
-    "Persyaratan Cuti.md"
+    "daily-notes/2022-01-10.md"
   ]
 }
