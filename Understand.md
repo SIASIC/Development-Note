@@ -65,3 +65,16 @@ Dengan kriteria verifikasi pada [[Persyaratan Cuti#Kriteria persyaratan cuti]]
 3. Penggunaan python dan django memerlukan hosting yang mendukung teknologi ini
 4. Penyimpanan data PNS pada sistem yang tidak aman sangat tidak dianjurkan dan lebih baik mengambil data dari API, jika ada
 
+
+# Alur pengajuan di aplikasi
+1. PNS mengajukan cuti kepada atasan atau bagian kepegawaian pada unit kerja tempat ia bekerja
+2. PNS menyerahkan [[Persyaratan Cuti]]
+3. Bagian kepegawaian atau atasan mengisi form cuti miliki PNS
+4. Aplikasi menghitung jumlah cuti yang diambil
+5. Bagian kepegawaian atau atasan memasukkan scan persyaratan cuti yang diberikan
+6. Aplikasi akan melakukan verifikasi pada scan persyaratan cuti yang telah dimasukkan
+7. Setelah persyaratan telah diverifikasi
+8. Bagian kepegawaian atau atasan mencetak form cuti 
+9. Form cuti kemudian ditanda tangani dan diberikan stempel
+10. Scan form cuti yang telah berstempel dimasukkan kembali kedalam aplikasi untuk dilihat oleh pejabat yang bersangkutan
+11. Pejabat melakukan persetujuan pada form cuti yang telah berstempel dan persyaratan cuti  
