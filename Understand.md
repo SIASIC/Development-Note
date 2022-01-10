@@ -2,6 +2,8 @@
 
 [[Fitur]]
 
+Test pull on mobile
+
 ## Masalah / Goal
 ### Context
 Instansi pemerintah mempunyai sistem cuti, dimana PNS bisa meminta cuti dengan izin tertentu seperti [[Persyaratan Cuti]]. Sistem dilakukan denngan 
