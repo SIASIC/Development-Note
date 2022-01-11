@@ -57,11 +57,12 @@
 8. Alamat menjalankan cuti
 9. Nomor telepon yang bisa dihubungi
 10. File persyaratan
-11. Atasan yang bersangkutan
-12. Pertimbangan atasan
-13. Scan berstempel
-14. Pejabat yang bersangkutan
-15. Pertimbangan pejabat
+11. Status file persyaratan
+12. Atasan yang bersangkutan
+13. Pertimbangan atasan
+14. Scan berstempel
+15. Pejabat yang bersangkutan
+16. Pertimbangan pejabat
 
 > Atasan dan pejabat yang besangkutan diisi otomatis oleh mesin sesui dengan ketentuan [[Destructure Atasan dan pejabat yang bersangkutan]]
 

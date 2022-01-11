@@ -84,3 +84,105 @@ for index, row in enumerate(catatan_cuti):
 ```
 ### 3. Verifikasi dokumen/surat
 Ini adalah fitur tambahan dan memang panjang kalau dikerjakan sekarang ... jadi ini tidak akan dikerjakan
+
+## Wireframe aplikasi
+
+### Page map
+![[page-map.jpg]]
+
+### Isi dalam halaman
+1. Login
+	- Form input nip dan password
+	- Wallpaper
+	- Logo aplikasi
+	- Logo dinas
+2. Home
+	- Admin
+		- Nama aplikasi
+		- Trafik form cuti dalam jangka waktu (bulan, minggu, 3 hari, dan custom)
+		- Kartu informasi akun yang sedang login
+		- Jumlah form cuti hari ini
+		- Link list form cuti berdasarkan status
+	- Atasan
+		- Nama unit kerja dan logo aplikasi (kecil)
+		- Trafik form cuti dalam jangka waktu (bulan, minggu, 3 hari, dan custom)
+		- Kartu informasi akun yang sedang login
+		- Jumlah form cuti kemarin
+		- Jumlah form cuti hari ini
+		- Notifikasi balasan persetujuan form cuti dari atasan
+		- Link list form cuti menunggu balasan atau baru dikirim
+		- Link list form cuti 
+	- Pejabat
+		- Nama aplikasi
+		- Trafik form cuti dalam jangka waktu (bulan, minggu, 3 hari, dan custom)
+		- Kartu informasi akun yang sedang login
+		- Jumlah form cuti kemarin
+		- Jumlah form cuti hari ini
+		- Notifikasi kiriman form cuti baru
+		- Link list form cuti belum dibaca
+		- Link list form cuti menunggu diproses
+3. Dashboard
+	- List dari semu form cuti yang ada, dengan page
+	- Tombol tambah form
+	- Tombol edit form
+	- Tombol lihat form
+	- Tombol pemberian persetujuan
+4. Input form cuti
+	- Form input cuti
+	- Form upload file persyaratan
+5. Lihat form cuti
+	- Data yang telah dimasukkan
+	- Preview file persyaratan
+	- Status file persyaratan
+6.  Ubah form cuti
+	- Form edit cuti
+	- Form edit file persyaratan
+7. Pengaturan akun
+	- Informasi akun
+	- Update password
+	- Delete akun
+8. PNS
+	- Tampilan seluruh PNS
+	- Tombol lihat PNS
+	- Tombol hapus PNS
+9. Lihat PNS
+	- Data PNS
+	- Catatan cuti PNS tahun ini
+	- Ubah data PNS
+	- Tombol Hapus PNS
+10. Ubah data PNS
+	- Form edit PNS
+11. Jabatan
+	- Semua jabatan
+12. Tampilkan jabatan
+	- Deskripsi jabatan
+	- Tombol hapus
+	- Form ubah deskripsi
+13. Unit kerja
+	- Seluruh unit kerja
+	- Tombol lihat
+	- Tombol hapus
+	- Tombol ubah unit kerja
+14. Ubah unit kerja
+	- Form edit deskrispi unit kerja
+15. Lihat unit kerja
+	- Deskrispi unit kerja
+	- Atasan dan anggota badan kepegawaian
+	- Tombol tambah anggota badan kepegawaian
+	- Tombol hapus anggota badan kepegawaian
+	- Tombol hapus atasan
+	- Tombol ubah atasan
+	- Tombol tambah atasan (hanya ada kalau tidak ada atasan)
+16. Jenis cuti
+	- Seluruh jenis cuti
+	- Deskripsi jenis cuti
+	- Tombol ubah deskripsi cuti
+	- Tombol lihat jenis cuti
+17. Lihat jenis cuti
+	- Deskrispi jenis cuti
+	- Persyaratan cuti
+	- Jatah
+18. About
+	- Tentang aplikasi
+	- Lisensi
+	- Developer
