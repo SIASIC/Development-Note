@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sketch.md",
+            "file": "Fitur.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketch.md",
+                "file": "Fitur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,20 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f8154f77f8978ffc",
   "lastOpenFiles": [
+    "Fitur.md",
+    "daily-notes/2022-01-11.md",
     "Sketch.md",
+    "attachments/page-map.jpg",
+    "attachments/IMG_20220111_080822.jpg",
     "Struktur data.md",
     "Persyaratan Cuti.md",
     "Cara & referensi jurnal verifikasi dokumen.md",
     "Understand.md",
-    "Alur Permohonan Cuti.md",
-    "Destructure Atasan dan pejabat yang bersangkutan.md",
-    "Fitur.md",
-    "Form Cuti.md",
-    "daily-notes/2022-01-11.md"
+    "Alur Permohonan Cuti.md"
   ]
 }

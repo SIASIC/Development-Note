@@ -9,6 +9,7 @@ Fitur utama yang harus dikerjakan
 	- [ ] Simpan kelengkapan data
 - [ ] Persetujuan
 	- [ ] Otomatis forward persetujuan -> Form tidak akan diketahui oleh pejabat, jika tidak setujui oleh atasan
+- [ ] Admin mengolah level akun lainnya
 
 ## Secondary
 Fitur yang akan dikerjakan setelah semua fitur utama telah diselesaikan
