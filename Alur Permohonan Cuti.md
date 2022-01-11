@@ -37,8 +37,8 @@ Status dari pejabat menetapkan bahwa form cuti
 	- Jumlah cuti tahunan yang diambil selama kurun 3 tahun
 	- Jumlah cuti lainnya yang diambil selama tahun ini
 
-ex: 
-| Jenis Cuti                     | Jumalah | Sisa |
+#### format pengambilan catatan cuti: 
+| Jenis Cuti                     | Jumlah | Sisa |
 |--------------------------------|---------|------|
 | Cuti tahunan N-2               |         |      |
 | Cuti tahunan N-1               |         |      |
