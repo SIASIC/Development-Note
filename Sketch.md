@@ -31,7 +31,12 @@ Untuk melakukan print ada beberapa solusi untuk melakukan print
 > Cara diatas harus dilakukan dengan menambah fitur setting printer
 3. Manual print, aplikasi akan mengirimkan file docx yang sudah diproses ke dalam folder download dan membiarkan pengguna membuka file kemudian melakukan print seperti biasanya. Dimana agak ribet, buang-buang tenaga dan kurang profesional.
 
-**Lanjut pikirkan nanti**
+> Revisi proses Print
+
+Langkah print tidak dilakukan dengan mengubah document .docx melainkan membuat tampilan form cuti dengan html dan css, kemudian melakukan print menggunakan browser. Dengan begini langkah persiapan print menjadi 
+1. Buat HTML template form cuti
+2. Masukkan data sesuai dengan label
+3. Print menggunakan fungsi print pada browser masing-masing pengguna
 
 ***
 
