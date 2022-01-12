@@ -61,7 +61,7 @@ Dengan kriteria verifikasi pada [[Persyaratan Cuti#Kriteria persyaratan cuti]]
 1. Menyimpan tanda tangan pada sistem yang tidak aman bisa membuat tanda tangan diambil ketika terjadi pembobolan sistem dan membuat tanda tangan atasan/pejabat berada di tangan orang yang salah, sehingga bisa digunakan untuk tindakan yang melanggar hukum
 2. Pengolahan data citra memerlukan data yang cukup besar sehingga memerlukan penyimpanan yang banyak
 3. Penggunaan python dan django memerlukan hosting yang mendukung teknologi ini
-4. Penyimpanan data PNS pada sistem yang tidak aman sangat tidak dianjurkan dan lebih baik mengambil data dari API, jika ada
+4. Penyimpanan data PNS pada sistem yang tidak aman sangat tidak dianjurkan dan lebih baik mengambil data dari API, jika ada (ternyata ada [[2022-01-12]])
 
 
 ## Alur pengajuan di aplikasi

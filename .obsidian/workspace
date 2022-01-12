@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sketch.md",
+            "file": "Understand.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketch.md",
+                "file": "Understand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "f8154f77f8978ffc",
   "lastOpenFiles": [
+    "Understand.md",
+    "daily-notes/2022-01-12.md",
     "Sketch.md",
+    "Struktur data.md",
+    "Form Cuti.md",
+    "Alur Permohonan Cuti.md",
+    "Persyaratan Cuti.md",
     "Fitur.md",
     "daily-notes/2022-01-11.md",
-    "attachments/page-map.jpg",
-    "attachments/IMG_20220111_080822.jpg",
-    "Struktur data.md",
-    "Persyaratan Cuti.md",
-    "Cara & referensi jurnal verifikasi dokumen.md",
-    "Understand.md",
-    "Alur Permohonan Cuti.md"
+    "attachments/page-map.jpg"
   ]
 }
