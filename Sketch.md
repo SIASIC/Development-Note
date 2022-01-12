@@ -191,3 +191,10 @@ Ini adalah fitur tambahan dan memang panjang kalau dikerjakan sekarang ... jadi 
 	- Tentang aplikasi
 	- Lisensi
 	- Developer
+
+
+### Template
+Karena saya tidak bisa bikin layout dengan baik, maka referensi layout akan dibuat dengan menggunakan element yang sudah ada pada template. Ada 3 template yang bisa dipilih
+1. [devias-io](https://github.com/devias-io)/**[material-kit-react](https://github.com/devias-io/material-kit-react)** => paling bagus
+2. [Material Dahsboard](https://www.creative-tim.com/product/material-dashboard-react?partner=104080)
+3. [MInimal UI](https://github.com/minimal-ui-kit/material-kit-react) 

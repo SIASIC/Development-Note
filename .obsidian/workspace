@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Understand.md",
+            "file": "Sketch.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Understand.md",
+                "file": "Sketch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
   },
   "active": "f8154f77f8978ffc",
   "lastOpenFiles": [
+    "Sketch.md",
     "Understand.md",
     "daily-notes/2022-01-12.md",
-    "Sketch.md",
     "Struktur data.md",
     "Form Cuti.md",
     "Alur Permohonan Cuti.md",
