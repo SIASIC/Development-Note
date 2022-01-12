@@ -2,7 +2,7 @@
 
 Yang harus dilakukan hari ini
 - [x] Memecah solusi atau masalah menjadi beberapa bagian kecil
-- [ ] Membuat wireframe aplikasi
+- [x] Membuat wireframe aplikasi
 
 ## Memecah solusi
 [[Understand#Solusi]]
@@ -42,7 +42,7 @@ Langkah print tidak dilakukan dengan mengubah document .docx melainkan membuat t
 
 ### 2. Catatan jatah cuti
 
-Jumlah pengambilan cuti akan dihitung menggunakan fungsi agregat pada mongodb dengan translasi query pada MqSQL seperti 
+Jumlah pengambilan cuti akan dihitung menggunakan fungsi agregat pada PostgresSQL dengan translasi query pada MqSQL seperti 
 
 Untuk semua jenis cuti selain cuti tahunan N-1 dan cuti tahunan N-2
 ```sql
@@ -89,6 +89,7 @@ for index, row in enumerate(catatan_cuti):
 ```
 ### 3. Verifikasi dokumen/surat
 Ini adalah fitur tambahan dan memang panjang kalau dikerjakan sekarang ... jadi ini tidak akan dikerjakan
+
 
 ## Wireframe aplikasi
 
