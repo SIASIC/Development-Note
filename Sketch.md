@@ -91,6 +91,7 @@ for index, row in enumerate(catatan_cuti):
 Ini adalah fitur tambahan dan memang panjang kalau dikerjakan sekarang ... jadi ini tidak akan dikerjakan
 
 
+
 ## Wireframe aplikasi
 
 ### Page map
@@ -101,10 +102,8 @@ Ini adalah fitur tambahan dan memang panjang kalau dikerjakan sekarang ... jadi 
 	- Form input nip dan password
 	- Wallpaper
 	- Logo aplikasi
-	- Logo dinas
-2. Home
+2. Dashboard
 	- Admin
-		- Nama aplikasi
 		- Trafik form cuti dalam jangka waktu (bulan, minggu, 3 hari, dan custom)
 		- Kartu informasi akun yang sedang login
 		- Jumlah form cuti hari ini
@@ -127,7 +126,7 @@ Ini adalah fitur tambahan dan memang panjang kalau dikerjakan sekarang ... jadi 
 		- Notifikasi kiriman form cuti baru
 		- Link list form cuti belum dibaca
 		- Link list form cuti menunggu diproses
-3. Dashboard
+3. Form Cuti
 	- List dari semu form cuti yang ada, dengan page
 	- Tombol tambah form
 	- Tombol edit form
