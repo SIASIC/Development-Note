@@ -61,3 +61,4 @@ Fitur tambahan untuk menambah kualitas aplikasi
 
 ## Proprosed
 Fitur yang diusulkan selama proses pengembangan berjalan
+- [ ] Grafik batang representasi jumlah setiap jenis cuti secara keseluruhan dan pada unit kerja pada halaman atasan dan admin
