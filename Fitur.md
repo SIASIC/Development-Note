@@ -48,6 +48,7 @@ Fitur utama yang harus dikerjakan
 - [ ] Pejabat
 	- [ ] Memberikan persetujuan pada form cuti
 	- [ ] Mengubah Atasan dan Anggota Bagian Kepegawaian seluruh unit kerja
+- [ ] Penambahan jatah cuti tahunan secara otomatis tiap PNS
 
 ## Secondary
 Fitur yang akan dikerjakan setelah semua fitur utama telah diselesaikan
