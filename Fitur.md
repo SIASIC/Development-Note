@@ -1,11 +1,11 @@
 ## Main
 Fitur utama yang harus dikerjakan
-- [ ] Login
-- [ ] Logout
-- [ ] Pengguna
-	- [ ] Atasan
-	- [ ] Pejabat
-	- [ ] Admin
+- [x] Login
+- [x] Logout
+- [x] Pengguna
+	- [x] Atasan
+	- [x] Pejabat
+	- [x] Admin
 - [ ] Form cuti
 	- [ ] Entry data otomatis (Nama, Jabatan, Unit Kerja, Masa Kerja)
 	- [ ] Hitung otomatis sisa jatah cuti
