@@ -1,11 +1,11 @@
-#design-sprint 
+[[Design Sprint]]
 
 Yang harus dilakukan hari ini
 - [x] Memecah solusi atau masalah menjadi beberapa bagian kecil
 - [x] Membuat wireframe aplikasi
 
 ## Memecah solusi
-[[Understand#Solusi]]
+[[1 - Understand#Solusi]]
 
 Disini akan dijabarkan lebih detail lagi bagaimana caranya
 

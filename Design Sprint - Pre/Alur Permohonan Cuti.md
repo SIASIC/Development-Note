@@ -1,3 +1,5 @@
+[[Design Sprint - Pre]]
+
 ## General
 1. PNS bertemu dengan atasan unit kerja untuk mengajukan cuti dan menyerahkan [[Persyaratan Cuti]]
 2. Atasan mengisikan [[Form Cuti]] dan memasukkan [[Persyaratan Cuti]] yang diberikan oleh pegawai

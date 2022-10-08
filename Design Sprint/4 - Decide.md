@@ -1,4 +1,4 @@
-#design-sprint 
+[[Design Sprint]]
 
 ### Yang harus dilakukan
 - [x] Menentukan solusi yang akan digunakan
@@ -10,7 +10,7 @@
 ## Solusi yang digunakan
 1. Entry data otomatis akan dilakukan dengan mengambil dari data dari API [[2022-01-12]], sedangkan data yang lain akan dimasukkan secara manual. Data dari API akan tetap disimpan dan tidak akan menggunakan data referensi, karena form cuti akan menjadi track record selamanya dan tidak akan hilang.
 2. Print form cuti dilakukan dengan menggunakan halaman HTML sebagai perantara print dengan membuat template form cuti dari HTML, kemudian mengisi label dengan data yang telah dimasukkan. Pembuatan HTML akan digunakan menggunakan fungsi save as .html dari ms office word. 
-3. Catatan jatah cuti akan diambil dari database dan dihitung menggunakan query [[Sketch#2 Catatan jatah cuti]]
+3. Catatan jatah cuti akan diambil dari database dan dihitung menggunakan query [[2 - Sketch#2 Catatan jatah cuti]]
 4. Verifikasi dokumen dan surat akan dikembangkan setelah fitur utama selesai.
 
 ## Masalah yang mungkin terjadi

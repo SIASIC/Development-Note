@@ -1,4 +1,4 @@
-#design-sprint
+[[Design Sprint]]
 
 [[Fitur]]
 

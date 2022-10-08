@@ -1,3 +1,5 @@
+[[Design Sprint - Pre]]
+
 | No | Nama Cuti                     | Persyaratan Cuti                                                      |
 |----|-------------------------------|-----------------------------------------------------------------------|
 | 1  | Cuti tahunan                  | Form cuti dari yang bersangkutan dari BKD                             |

@@ -8,5 +8,7 @@
   "spellcheckLanguages": [
     "en-US",
     "id"
-  ]
+  ],
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

@@ -1,3 +1,5 @@
+[[Design Sprint - Pre]]
+
 | Pejabat Berwenang                                                                                                           | Jenis Cuti                 | Pegawai Negeri Sipil                                                                  |
 |-----------------------------------------------------------------------------------------------------------------------------|----------------------------|---------------------------------------------------------------------------------------|
 | Sekratirs daerah kabupaten bondowoso                                                                                        | Cuti tahunan               | Pejabat ESL III di lingkungan pemerintah kabupaten bondowoso                          |

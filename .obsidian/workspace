@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b533f89155c4629",
+        "id": "df636d5472cf6ebb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sketch.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sketch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +90,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5b533f89155c4629",
+  "active": "df636d5472cf6ebb",
   "lastOpenFiles": [
-    "Sketch.md",
-    "Form Cuti.md",
-    "Fitur.md",
-    "Persyaratan Cuti.md",
-    "Prototype.md",
-    "Struktur data.md",
-    "Decide.md",
-    "Understand.md",
-    "daily-notes/2022-01-12.md",
-    "Alur Permohonan Cuti.md"
+    "Design Sprint - Pre/Design Sprint - Pre.md",
+    "daily-notes/2022-10-08.md",
+    "Design Sprint/1 - Understand.md",
+    "Design Sprint - Pre/Struktur data.md",
+    "Design Sprint - Pre/Persyaratan Cuti.md",
+    "Design Sprint - Pre/Form Cuti.md",
+    "Design Sprint - Pre/Fitur.md",
+    "Design Sprint - Pre/Destructure Atasan dan pejabat yang bersangkutan.md",
+    "Design Sprint - Pre/Cara & referensi jurnal verifikasi dokumen.md",
+    "Design Sprint - Pre/Atasan dan pejabat yang bersangkutan.md"
   ]
 }
